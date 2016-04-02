@@ -1,0 +1,72 @@
+body {
+    font-family: Verdana;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+input[type=text], input[type=password],  input[type=email] {
+    width: 150px;
+}
+
+/*#container {*/
+    /*width: 80%;*/
+    /*margin: auto;*/
+/*}*/
+
+/*#content {*/
+    /*width: 80%;*/
+    /*background-color: darkcyan;*/
+    /*margin: auto;*/
+    /*padding: 1px;*/
+/*}*/
+
+#container {
+    width: 70%;
+    margin: auto;
+    background-color: darkcyan;
+    padding: 5px;
+}
+
+#content {
+width: 80%;
+margin: auto;
+}
+
+.error {
+    color: red;
+    font-style: italic;
+    margin: 5px;
+}
+
+.row>.error {
+    margin-left: 40%;
+}
+
+.row {
+    margin-bottom: 10px;
+}
+
+.required-fields {
+    font-style: italic;
+    font-size: 80%;
+    margin-left: 70%;
+}
+
+div.label {
+    float: left;
+    width: 40%;
+    text-align: right;
+}
+
+div.input {
+    width: 60%;
+    float: left;
+    text-align: left;
+}
+
+.center{
+    text-align: center;
+}
