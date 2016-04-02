@@ -1,0 +1,39 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="ruby-2.1.5-p273" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.1.5p273 ( revision 48405) p273" />
+      <homePath value="C:/RailsInstaller/Ruby2.1.0/bin/ruby.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/site_ruby/2.1.0" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/site_ruby/2.1.0/i386-msvcrt" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/site_ruby" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/vendor_ruby/2.1.0" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/vendor_ruby/2.1.0/i386-msvcrt" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/i386-mingw32" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs21" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/site_ruby/2.1.0" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/site_ruby/2.1.0/i386-msvcrt" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/site_ruby" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/vendor_ruby/2.1.0" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/vendor_ruby/2.1.0/i386-msvcrt" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/i386-mingw32" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs21" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

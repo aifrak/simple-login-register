@@ -1,0 +1,2026 @@
+<application>
+  <component name="libraryTable">
+    <library name="actionmailer (v4.1.8, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/actionmailer-4.1.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/actionmailer-4.1.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionmailer (v4.2.5, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/actionmailer-4.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/actionmailer-4.2.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionpack (v4.1.8, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/actionpack-4.1.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/actionpack-4.1.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionpack (v4.2.5, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/actionpack-4.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/actionpack-4.2.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v4.1.8, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/actionview-4.1.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/actionview-4.1.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v4.2.5, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/actionview-4.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/actionview-4.2.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="active_admin-sortable_tree (v0.2.1, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/active_admin-sortable_tree-0.2.1/app" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/active_admin-sortable_tree-0.2.1/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/active_admin-sortable_tree-0.2.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/active_admin-sortable_tree-0.2.1/app" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/active_admin-sortable_tree-0.2.1/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/active_admin-sortable_tree-0.2.1/vendor" />
+      </SOURCES>
+    </library>
+    <library name="active_skin (v0.0.12, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/active_skin-0.0.12/app" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/active_skin-0.0.12/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/active_skin-0.0.12/app" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/active_skin-0.0.12/lib" />
+      </SOURCES>
+    </library>
+    <library name="activeadmin (v1.0.0.pre2@f7483e, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/bundler/gems/activeadmin-f7483e3b8fcd/app" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/bundler/gems/activeadmin-f7483e3b8fcd/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/bundler/gems/activeadmin-f7483e3b8fcd/tasks" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/bundler/gems/activeadmin-f7483e3b8fcd/config" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/bundler/gems/activeadmin-f7483e3b8fcd/script" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/bundler/gems/activeadmin-f7483e3b8fcd/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/bundler/gems/activeadmin-f7483e3b8fcd/app" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/bundler/gems/activeadmin-f7483e3b8fcd/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/bundler/gems/activeadmin-f7483e3b8fcd/tasks" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/bundler/gems/activeadmin-f7483e3b8fcd/config" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/bundler/gems/activeadmin-f7483e3b8fcd/script" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/bundler/gems/activeadmin-f7483e3b8fcd/features" />
+      </SOURCES>
+    </library>
+    <library name="activejob (v4.2.5, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/activejob-4.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/activejob-4.2.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v4.1.8, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/activemodel-4.1.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/activemodel-4.1.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v4.2.5, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/activemodel-4.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/activemodel-4.2.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord (v4.1.8, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/activerecord-4.1.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/activerecord-4.1.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord (v4.2.5, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/activerecord-4.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/activerecord-4.2.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord-sqlserver-adapter (v4.1.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/activerecord-sqlserver-adapter-4.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/activerecord-sqlserver-adapter-4.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v4.1.8, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/activesupport-4.1.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/activesupport-4.1.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v4.2.5, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/activesupport-4.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/activesupport-4.2.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="addressable (v2.4.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/addressable-2.4.0/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/addressable-2.4.0/data" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/addressable-2.4.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/addressable-2.4.0/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/addressable-2.4.0/data" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/addressable-2.4.0/tasks" />
+      </SOURCES>
+    </library>
+    <library name="arbre (v1.0.3, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/arbre-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/arbre-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="arel (v5.0.1.20140414130214, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/arel-5.0.1.20140414130214/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/arel-5.0.1.20140414130214/lib" />
+      </SOURCES>
+    </library>
+    <library name="arel (v6.0.3, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/arel-6.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/arel-6.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="ast (v2.2.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/ast-2.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/ast-2.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bcrypt (v3.1.10, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.10" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/bcrypt-3.1.10-x86-mingw32/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/bcrypt-3.1.10-x86-mingw32/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.10" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/bcrypt-3.1.10-x86-mingw32/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/bcrypt-3.1.10-x86-mingw32/lib" />
+      </SOURCES>
+    </library>
+    <library name="better_errors (v2.1.1, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/better_errors-2.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/better_errors-2.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="bigdecimal (v1.2.4, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/dl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/io" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tk" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/cgi" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/drb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/irb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/net" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rss" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/uri" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/date" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/json" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/racc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rake" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rdoc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/yaml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/psych" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rexml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rinda" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/shell" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/digest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/fiddle" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/matrix" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/ripper" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/xmlrpc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/openssl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/webrick" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/minitest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/optparse" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rbconfig" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rubygems" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tkextlib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32ole" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/bigdecimal" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/i386-mingw32" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/dl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/io" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tk" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/cgi" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/drb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/irb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/net" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rss" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/uri" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/date" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/json" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/racc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rake" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rdoc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/yaml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/psych" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rexml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rinda" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/shell" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/digest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/fiddle" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/matrix" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/ripper" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/xmlrpc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/openssl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/webrick" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/minitest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/optparse" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rbconfig" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rubygems" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tkextlib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32ole" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/bigdecimal" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/i386-mingw32" />
+      </SOURCES>
+    </library>
+    <library name="binding_of_caller (v0.7.2, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/binding_of_caller/0.7.2" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/binding_of_caller-0.7.2/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/binding_of_caller-0.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/binding_of_caller/0.7.2" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/binding_of_caller-0.7.2/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/binding_of_caller-0.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="bourbon (v4.2.6, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/bourbon-4.2.6/app" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/bourbon-4.2.6/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/bourbon-4.2.6/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/bourbon-4.2.6/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/bourbon-4.2.6/app" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/bourbon-4.2.6/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/bourbon-4.2.6/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/bourbon-4.2.6/features" />
+      </SOURCES>
+    </library>
+    <library name="builder (v3.2.2, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/builder-3.2.2/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/builder-3.2.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/builder-3.2.2/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/builder-3.2.2/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="bundler (v1.11.2, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/bundler-1.11.2/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/bundler-1.11.2/exe" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/bundler-1.11.2/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/bundler-1.11.2/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/bundler-1.11.2/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/bundler-1.11.2/exe" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/bundler-1.11.2/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/bundler-1.11.2/man" />
+      </SOURCES>
+    </library>
+    <library name="bundler (v1.7.7, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/bundler-1.7.7/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/bundler-1.7.7/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/bundler-1.7.7/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/bundler-1.7.7/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/bundler-1.7.7/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/bundler-1.7.7/man" />
+      </SOURCES>
+    </library>
+    <library name="byebug (v8.2.1, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/byebug/8.2.1" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/byebug-8.2.1/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/byebug-8.2.1/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/byebug-8.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/byebug/8.2.1" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/byebug-8.2.1/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/byebug-8.2.1/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/byebug-8.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="climate_control (v0.0.3, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/climate_control-0.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/climate_control-0.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="cocaine (v0.5.8, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/cocaine-0.5.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/cocaine-0.5.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="coderay (v1.1.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/coderay-1.1.0/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/coderay-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/coderay-1.1.0/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/coderay-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="coderay (v1.1.1, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/coderay-1.1.1/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/coderay-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/coderay-1.1.1/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/coderay-1.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="coffee-rails (v4.1.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/coffee-rails-4.1.0/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/coffee-rails-4.1.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/coffee-rails-4.1.0/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/coffee-rails-4.1.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="coffee-rails (v4.1.1, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/coffee-rails-4.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/coffee-rails-4.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="coffee-script (v2.3.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/coffee-script-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/coffee-script-2.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="coffee-script (v2.4.1, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/coffee-script-2.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/coffee-script-2.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="coffee-script-source (v1.10.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/coffee-script-source-1.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/coffee-script-source-1.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="coffee-script-source (v1.8.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/coffee-script-source-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/coffee-script-source-1.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="concurrent-ruby (v1.0.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/concurrent-ruby-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/concurrent-ruby-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase (v0.2.2.beta6, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/debase-0.2.2.beta6/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/debase-0.2.2.beta6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/debase-0.2.2.beta6/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/debase-0.2.2.beta6/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.8.4, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/debase-ruby_core_source-0.8.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/debase-ruby_core_source-0.8.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="debug_inspector (v0.0.2, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/debug_inspector/0.0.2" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/debug_inspector-0.0.2/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/debug_inspector-0.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/debug_inspector/0.0.2" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/debug_inspector-0.0.2/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/debug_inspector-0.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="devise (v3.5.3, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/devise-3.5.3/app" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/devise-3.5.3/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/devise-3.5.3/config" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/devise-3.5.3/script" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/devise-3.5.3/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/devise-3.5.3/app" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/devise-3.5.3/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/devise-3.5.3/config" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/devise-3.5.3/script" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/devise-3.5.3/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="erubis (v2.7.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/erubis-2.7.0/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/erubis-2.7.0/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/erubis-2.7.0/contrib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/erubis-2.7.0/doc-api" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/erubis-2.7.0/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/erubis-2.7.0/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/erubis-2.7.0/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/erubis-2.7.0/contrib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/erubis-2.7.0/doc-api" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/erubis-2.7.0/benchmark" />
+      </SOURCES>
+    </library>
+    <library name="excon (v0.45.4, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/excon-0.45.4/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/excon-0.45.4/data" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/excon-0.45.4/tests" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/excon-0.45.4/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/excon-0.45.4/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/excon-0.45.4/data" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/excon-0.45.4/tests" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/excon-0.45.4/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="execjs (v2.2.2, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/execjs-2.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/execjs-2.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="execjs (v2.6.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/execjs-2.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/execjs-2.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="faraday (v0.9.2, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/faraday-0.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/faraday-0.9.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="formtastic (v3.1.3, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/formtastic-3.1.3/app" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/formtastic-3.1.3/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/formtastic-3.1.3/sample" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/formtastic-3.1.3/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/formtastic-3.1.3/app" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/formtastic-3.1.3/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/formtastic-3.1.3/sample" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/formtastic-3.1.3/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="formtastic_i18n (v0.5.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/formtastic_i18n-0.5.0/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/formtastic_i18n-0.5.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/formtastic_i18n-0.5.0/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/formtastic_i18n-0.5.0/config" />
+      </SOURCES>
+    </library>
+    <library name="friendly_id (v5.1.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/friendly_id-5.1.0/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/friendly_id-5.1.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/friendly_id-5.1.0/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/friendly_id-5.1.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="globalid (v0.3.6, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/globalid-0.3.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/globalid-0.3.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="has_scope (v0.6.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/has_scope-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/has_scope-0.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="hashie (v3.4.3, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/hashie-3.4.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/hashie-3.4.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="hike (v1.2.3, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/hike-1.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/hike-1.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v0.7.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/i18n-0.7.0/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/i18n-0.7.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/i18n-0.7.0/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/i18n-0.7.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v0.7.0.beta1, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/i18n-0.7.0.beta1/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/i18n-0.7.0.beta1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/i18n-0.7.0.beta1/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/i18n-0.7.0.beta1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="inherited_resources (v1.6.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/inherited_resources-1.6.0/app" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/inherited_resources-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/inherited_resources-1.6.0/app" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/inherited_resources-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="io-console (v0.4.2, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/dl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/io" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tk" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/cgi" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/drb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/irb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/net" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rss" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/uri" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/date" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/json" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/racc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rake" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rdoc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/yaml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/psych" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rexml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rinda" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/shell" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/digest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/fiddle" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/matrix" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/ripper" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/xmlrpc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/openssl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/webrick" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/minitest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/optparse" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rbconfig" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rubygems" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tkextlib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32ole" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/bigdecimal" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/i386-mingw32" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/dl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/io" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tk" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/cgi" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/drb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/irb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/net" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rss" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/uri" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/date" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/json" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/racc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rake" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rdoc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/yaml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/psych" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rexml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rinda" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/shell" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/digest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/fiddle" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/matrix" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/ripper" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/xmlrpc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/openssl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/webrick" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/minitest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/optparse" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rbconfig" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rubygems" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tkextlib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32ole" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/bigdecimal" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/i386-mingw32" />
+      </SOURCES>
+    </library>
+    <library name="jbuilder (v2.4.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/jbuilder-2.4.0/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/jbuilder-2.4.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/jbuilder-2.4.0/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/jbuilder-2.4.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="jquery-rails (v3.1.2, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/jquery-rails-3.1.2/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/jquery-rails-3.1.2/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/jquery-rails-3.1.2/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/jquery-rails-3.1.2/vendor" />
+      </SOURCES>
+    </library>
+    <library name="jquery-rails (v4.0.5, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/jquery-rails-4.0.5/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/jquery-rails-4.0.5/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/jquery-rails-4.0.5/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/jquery-rails-4.0.5/vendor" />
+      </SOURCES>
+    </library>
+    <library name="jquery-ui-rails (v5.0.5, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/jquery-ui-rails-5.0.5/app" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/jquery-ui-rails-5.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/jquery-ui-rails-5.0.5/app" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/jquery-ui-rails-5.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="json (v1.8.1, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/dl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/io" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tk" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/cgi" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/drb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/irb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/net" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rss" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/uri" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/date" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/json" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/racc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rake" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rdoc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/yaml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/psych" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rexml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rinda" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/shell" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/digest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/fiddle" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/matrix" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/ripper" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/xmlrpc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/openssl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/webrick" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/minitest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/optparse" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rbconfig" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rubygems" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tkextlib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32ole" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/bigdecimal" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/i386-mingw32" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/dl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/io" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tk" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/cgi" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/drb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/irb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/net" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rss" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/uri" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/date" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/json" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/racc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rake" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rdoc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/yaml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/psych" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rexml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rinda" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/shell" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/digest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/fiddle" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/matrix" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/ripper" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/xmlrpc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/openssl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/webrick" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/minitest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/optparse" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rbconfig" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rubygems" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tkextlib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32ole" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/bigdecimal" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/i386-mingw32" />
+      </SOURCES>
+    </library>
+    <library name="json (v1.8.3, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/json/1.8.3" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/json-1.8.3/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/json-1.8.3/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/json-1.8.3/data" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/json-1.8.3/java" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/json-1.8.3/tests" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/json-1.8.3/tools" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/json-1.8.3/diagrams" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/json/1.8.3" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/json-1.8.3/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/json-1.8.3/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/json-1.8.3/data" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/json-1.8.3/java" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/json-1.8.3/tests" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/json-1.8.3/tools" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/json-1.8.3/diagrams" />
+      </SOURCES>
+    </library>
+    <library name="jwt (v1.5.2, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/jwt-1.5.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/jwt-1.5.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="kaminari (v0.16.3, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/kaminari-0.16.3/app" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/kaminari-0.16.3/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/kaminari-0.16.3/config" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/kaminari-0.16.3/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/kaminari-0.16.3/app" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/kaminari-0.16.3/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/kaminari-0.16.3/config" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/kaminari-0.16.3/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="loofah (v2.0.3, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/loofah-2.0.3/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/loofah-2.0.3/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/loofah-2.0.3/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/loofah-2.0.3/benchmark" />
+      </SOURCES>
+    </library>
+    <library name="mail (v2.6.3, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/mail-2.6.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/mail-2.6.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="mandrill-api (v1.0.53, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/mandrill-api-1.0.53/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/mandrill-api-1.0.53/lib" />
+      </SOURCES>
+    </library>
+    <library name="materialize-sass (v0.97.5, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/materialize-sass-0.97.5/app" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/materialize-sass-0.97.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/materialize-sass-0.97.5/app" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/materialize-sass-0.97.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="mime-types (v2.4.3, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/mime-types-2.4.3/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/mime-types-2.4.3/data" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/mime-types-2.4.3/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/mime-types-2.4.3/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/mime-types-2.4.3/data" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/mime-types-2.4.3/support" />
+      </SOURCES>
+    </library>
+    <library name="mime-types (v2.99, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/mime-types-2.99/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/mime-types-2.99/data" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/mime-types-2.99/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/mime-types-2.99/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/mime-types-2.99/data" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/mime-types-2.99/support" />
+      </SOURCES>
+    </library>
+    <library name="mimemagic (v0.3.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/mimemagic-0.3.0/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/mimemagic-0.3.0/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/mimemagic-0.3.0/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/mimemagic-0.3.0/script" />
+      </SOURCES>
+    </library>
+    <library name="mini_portile2 (v2.0.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/mini_portile2-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/mini_portile2-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v4.7.5, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/dl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/io" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tk" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/cgi" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/drb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/irb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/net" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rss" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/uri" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/date" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/json" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/racc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rake" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rdoc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/yaml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/psych" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rexml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rinda" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/shell" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/digest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/fiddle" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/matrix" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/ripper" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/xmlrpc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/openssl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/webrick" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/minitest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/optparse" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rbconfig" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rubygems" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tkextlib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32ole" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/bigdecimal" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/i386-mingw32" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/dl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/io" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tk" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/cgi" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/drb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/irb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/net" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rss" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/uri" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/date" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/json" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/racc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rake" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rdoc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/yaml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/psych" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rexml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rinda" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/shell" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/digest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/fiddle" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/matrix" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/ripper" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/xmlrpc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/openssl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/webrick" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/minitest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/optparse" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rbconfig" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rubygems" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tkextlib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32ole" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/bigdecimal" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/i386-mingw32" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.4.3, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/minitest-5.4.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/minitest-5.4.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.8.3, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/minitest-5.8.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/minitest-5.8.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.10.1, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/multi_json-1.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/multi_json-1.10.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.11.2, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/multi_json-1.11.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/multi_json-1.11.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_xml (v0.5.5, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/multi_xml-0.5.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/multi_xml-0.5.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="multipart-post (v2.0.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/multipart-post-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/multipart-post-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.6.7.1, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nokogiri/1.6.7.1" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.7.1-x86-mingw32/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.7.1-x86-mingw32/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.7.1-x86-mingw32/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.7.1-x86-mingw32/tasks" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.7.1-x86-mingw32/patches" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.7.1-x86-mingw32/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nokogiri/1.6.7.1" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.7.1-x86-mingw32/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.7.1-x86-mingw32/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.7.1-x86-mingw32/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.7.1-x86-mingw32/tasks" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.7.1-x86-mingw32/patches" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.7.1-x86-mingw32/suppressions" />
+      </SOURCES>
+    </library>
+    <library name="oauth2 (v1.0.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/oauth2-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/oauth2-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="omniauth (v1.3.1, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/omniauth-1.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/omniauth-1.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="omniauth-facebook (v3.0.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/omniauth-facebook-3.0.0/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/omniauth-facebook-3.0.0/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/omniauth-facebook-3.0.0/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/omniauth-facebook-3.0.0/example" />
+      </SOURCES>
+    </library>
+    <library name="omniauth-github (v1.1.2, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/omniauth-github-1.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/omniauth-github-1.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="omniauth-google-oauth2 (v0.3.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/omniauth-google-oauth2-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/omniauth-google-oauth2-0.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="omniauth-oauth2 (v1.4.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/omniauth-oauth2-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/omniauth-oauth2-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="orm_adapter (v0.5.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/orm_adapter-0.5.0/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/orm_adapter-0.5.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/orm_adapter-0.5.0/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/orm_adapter-0.5.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="paperclip (v4.3.5, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/paperclip-4.3.5/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/paperclip-4.3.5/cucumber" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/paperclip-4.3.5/features" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/paperclip-4.3.5/gemfiles" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/paperclip-4.3.5/shoulda_macros" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/paperclip-4.3.5/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/paperclip-4.3.5/cucumber" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/paperclip-4.3.5/features" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/paperclip-4.3.5/gemfiles" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/paperclip-4.3.5/shoulda_macros" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.3.0.6, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/parser-2.3.0.6/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/parser-2.3.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/parser-2.3.0.6/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/parser-2.3.0.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="pg (v0.17.1, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/pg-0.17.1-x86-mingw32/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/pg-0.17.1-x86-mingw32/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/pg-0.17.1-x86-mingw32/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/pg-0.17.1-x86-mingw32/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/pg-0.17.1-x86-mingw32/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/pg-0.17.1-x86-mingw32/sample" />
+      </SOURCES>
+    </library>
+    <library name="polyamorous (v1.3.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/polyamorous-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/polyamorous-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="powerpack (v0.1.1, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/powerpack-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/powerpack-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="psych (v2.0.5, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/dl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/io" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tk" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/cgi" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/drb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/irb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/net" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rss" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/uri" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/date" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/json" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/racc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rake" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rdoc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/yaml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/psych" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rexml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rinda" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/shell" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/digest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/fiddle" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/matrix" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/ripper" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/xmlrpc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/openssl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/webrick" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/minitest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/optparse" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rbconfig" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rubygems" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tkextlib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32ole" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/bigdecimal" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/i386-mingw32" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/dl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/io" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tk" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/cgi" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/drb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/irb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/net" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rss" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/uri" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/date" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/json" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/racc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rake" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rdoc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/yaml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/psych" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rexml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rinda" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/shell" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/digest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/fiddle" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/matrix" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/ripper" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/xmlrpc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/openssl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/webrick" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/minitest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/optparse" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rbconfig" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rubygems" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tkextlib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32ole" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/bigdecimal" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/i386-mingw32" />
+      </SOURCES>
+    </library>
+    <library name="rack (v1.5.2, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rack-1.5.2/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rack-1.5.2/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rack-1.5.2/contrib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rack-1.5.2/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rack-1.5.2/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rack-1.5.2/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rack-1.5.2/contrib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rack-1.5.2/example" />
+      </SOURCES>
+    </library>
+    <library name="rack (v1.6.4, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rack-1.6.4/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rack-1.6.4/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rack-1.6.4/contrib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rack-1.6.4/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rack-1.6.4/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rack-1.6.4/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rack-1.6.4/contrib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rack-1.6.4/example" />
+      </SOURCES>
+    </library>
+    <library name="rack-test (v0.6.2, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rack-test-0.6.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rack-test-0.6.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-test (v0.6.3, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rack-test-0.6.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rack-test-0.6.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails (v4.1.8, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rails-4.1.8/guides" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rails-4.1.8/guides" />
+      </SOURCES>
+    </library>
+    <library name="rails (v4.2.5, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rails-4.2.5/guides" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rails-4.2.5/guides" />
+      </SOURCES>
+    </library>
+    <library name="rails-deprecated_sanitizer (v1.0.3, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rails-deprecated_sanitizer-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rails-deprecated_sanitizer-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-dom-testing (v1.0.7, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rails-dom-testing-1.0.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rails-dom-testing-1.0.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-html-sanitizer (v1.0.2, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rails-html-sanitizer-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rails-html-sanitizer-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="railties (v4.1.8, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/railties-4.1.8/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/railties-4.1.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/railties-4.1.8/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/railties-4.1.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="railties (v4.2.5, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/railties-4.2.5/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/railties-4.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/railties-4.2.5/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/railties-4.2.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="rainbow (v2.1.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rainbow-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rainbow-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v10.1.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/dl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/io" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tk" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/cgi" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/drb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/irb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/net" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rss" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/uri" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/date" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/json" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/racc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rake" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rdoc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/yaml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/psych" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rexml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rinda" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/shell" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/digest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/fiddle" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/matrix" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/ripper" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/xmlrpc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/openssl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/webrick" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/minitest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/optparse" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rbconfig" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rubygems" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tkextlib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32ole" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/bigdecimal" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/i386-mingw32" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/dl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/io" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tk" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/cgi" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/drb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/irb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/net" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rss" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/uri" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/date" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/json" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/racc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rake" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rdoc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/yaml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/psych" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rexml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rinda" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/shell" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/digest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/fiddle" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/matrix" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/ripper" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/xmlrpc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/openssl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/webrick" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/minitest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/optparse" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rbconfig" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rubygems" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tkextlib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32ole" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/bigdecimal" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/i386-mingw32" />
+      </SOURCES>
+    </library>
+    <library name="rake (v10.4.2, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rake-10.4.2/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rake-10.4.2/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rake-10.4.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rake-10.4.2/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rake-10.4.2/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rake-10.4.2/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="ransack (v1.7.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/ransack-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/ransack-1.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rb-readline (v0.5.1, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rb-readline-0.5.1/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rb-readline-0.5.1/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rb-readline-0.5.1/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rb-readline-0.5.1/bench" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v4.1.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/dl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/io" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tk" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/cgi" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/drb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/irb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/net" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rss" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/uri" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/date" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/json" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/racc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rake" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rdoc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/yaml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/psych" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rexml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rinda" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/shell" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/digest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/fiddle" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/matrix" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/ripper" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/xmlrpc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/openssl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/webrick" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/minitest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/optparse" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rbconfig" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rubygems" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tkextlib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32ole" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/bigdecimal" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/i386-mingw32" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/dl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/io" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tk" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/cgi" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/drb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/irb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/net" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rss" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/uri" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/date" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/json" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/racc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rake" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rdoc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/yaml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/psych" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rexml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rinda" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/shell" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/digest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/fiddle" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/matrix" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/ripper" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/xmlrpc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/openssl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/webrick" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/minitest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/optparse" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rbconfig" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rubygems" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tkextlib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32ole" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/bigdecimal" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/i386-mingw32" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v4.2.1, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rdoc-4.2.1/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rdoc-4.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rdoc-4.2.1/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rdoc-4.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="redcarpet (v3.3.4, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/redcarpet/3.3.4" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/redcarpet-3.3.4/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/redcarpet-3.3.4/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/redcarpet-3.3.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/redcarpet/3.3.4" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/redcarpet-3.3.4/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/redcarpet-3.3.4/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/redcarpet-3.3.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="responders (v2.1.1, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/responders-2.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/responders-2.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.37.2, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rubocop-0.37.2/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rubocop-0.37.2/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rubocop-0.37.2/assets" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rubocop-0.37.2/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rubocop-0.37.2/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rubocop-0.37.2/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rubocop-0.37.2/assets" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rubocop-0.37.2/config" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/ruby-debug-ide-0.6.0/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/ruby-debug-ide-0.6.0/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/ruby-debug-ide-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/ruby-debug-ide-0.6.0/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/ruby-debug-ide-0.6.0/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/ruby-debug-ide-0.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.7.5, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/ruby-progressbar-1.7.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/ruby-progressbar-1.7.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubyzip (v1.1.6, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rubyzip-1.1.6/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rubyzip-1.1.6/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rubyzip-1.1.6/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/rubyzip-1.1.6/samples" />
+      </SOURCES>
+    </library>
+    <library name="sass (v3.2.19, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sass-3.2.19/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sass-3.2.19/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sass-3.2.19/extra" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sass-3.2.19/rails" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sass-3.2.19/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sass-3.2.19/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sass-3.2.19/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sass-3.2.19/extra" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sass-3.2.19/rails" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sass-3.2.19/vendor" />
+      </SOURCES>
+    </library>
+    <library name="sass (v3.4.21, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sass-3.4.21/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sass-3.4.21/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sass-3.4.21/extra" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sass-3.4.21/rails" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sass-3.4.21/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sass-3.4.21/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sass-3.4.21/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sass-3.4.21/extra" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sass-3.4.21/rails" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sass-3.4.21/vendor" />
+      </SOURCES>
+    </library>
+    <library name="sass-rails (v4.0.5, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sass-rails-4.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sass-rails-4.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="sass-rails (v5.0.4, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sass-rails-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sass-rails-5.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="sdoc (v0.4.1, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sdoc-0.4.1/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sdoc-0.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sdoc-0.4.1/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sdoc-0.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets (v2.12.3, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sprockets-2.12.3/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sprockets-2.12.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sprockets-2.12.3/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sprockets-2.12.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets (v3.0.0.beta.4, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sprockets-3.0.0.beta.4/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sprockets-3.0.0.beta.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sprockets-3.0.0.beta.4/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sprockets-3.0.0.beta.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets (v3.5.2, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sprockets-3.5.2/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sprockets-3.5.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sprockets-3.5.2/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sprockets-3.5.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets-rails (v2.2.1, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sprockets-rails-2.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sprockets-rails-2.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets-rails (v3.0.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sprockets-rails-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sprockets-rails-3.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="sqlite3 (v1.3.10, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sqlite3-1.3.10-x86-mingw32/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sqlite3-1.3.10-x86-mingw32/faq" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sqlite3-1.3.10-x86-mingw32/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sqlite3-1.3.10-x86-mingw32/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sqlite3-1.3.10-x86-mingw32/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sqlite3-1.3.10-x86-mingw32/faq" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sqlite3-1.3.10-x86-mingw32/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sqlite3-1.3.10-x86-mingw32/tasks" />
+      </SOURCES>
+    </library>
+    <library name="sqlite3 (v1.3.11, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/sqlite3/1.3.11" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sqlite3-1.3.11-x86-mingw32/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sqlite3-1.3.11-x86-mingw32/faq" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sqlite3-1.3.11-x86-mingw32/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sqlite3-1.3.11-x86-mingw32/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/sqlite3/1.3.11" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sqlite3-1.3.11-x86-mingw32/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sqlite3-1.3.11-x86-mingw32/faq" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sqlite3-1.3.11-x86-mingw32/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sqlite3-1.3.11-x86-mingw32/tasks" />
+      </SOURCES>
+    </library>
+    <library name="sqlite3-ruby (v1.3.3, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sqlite3-ruby-1.3.3/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sqlite3-ruby-1.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sqlite3-ruby-1.3.3/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/sqlite3-ruby-1.3.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="test-unit (v2.1.5.0, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/dl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/io" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tk" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/cgi" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/drb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/irb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/net" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rss" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/uri" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/date" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/json" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/racc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rake" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rdoc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/yaml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/psych" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rexml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rinda" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/shell" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/digest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/fiddle" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/matrix" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/ripper" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/xmlrpc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/openssl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/webrick" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/minitest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/optparse" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rbconfig" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rubygems" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tkextlib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32ole" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/bigdecimal" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/i386-mingw32" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/dl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/io" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tk" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/cgi" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/drb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/irb" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/net" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rss" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/uri" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/date" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/json" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/racc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rake" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rdoc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/yaml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/psych" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rexml" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rinda" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/shell" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/digest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/fiddle" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/matrix" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/ripper" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/xmlrpc" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/openssl" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/webrick" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/minitest" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/optparse" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rbconfig" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/rubygems" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/tkextlib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/win32ole" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/bigdecimal" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/i386-mingw32" />
+      </SOURCES>
+    </library>
+    <library name="thor (v0.19.1, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/thor-0.19.1/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/thor-0.19.1/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="thread_safe (v0.3.4, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.4/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.4/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="thread_safe (v0.3.5, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.5/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.5/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.5/tasks" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.5/yard-template" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.5/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.5/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.5/tasks" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.5/yard-template" />
+      </SOURCES>
+    </library>
+    <library name="tilt (v1.4.1, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/tilt-1.4.1/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/tilt-1.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/tilt-1.4.1/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/tilt-1.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="tilt (v2.0.2, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/tilt-2.0.2/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/tilt-2.0.2/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/tilt-2.0.2/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/tilt-2.0.2/bin" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/tilt-2.0.2/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/tilt-2.0.2/man" />
+      </SOURCES>
+    </library>
+    <library name="toastr-rails (v1.0.3, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/toastr-rails-1.0.3/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/toastr-rails-1.0.3/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/toastr-rails-1.0.3/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/toastr-rails-1.0.3/vendor" />
+      </SOURCES>
+    </library>
+    <library name="turbolinks (v2.5.3, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/turbolinks-2.5.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/turbolinks-2.5.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="tzinfo (v1.2.2, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/tzinfo-1.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/tzinfo-1.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="tzinfo-data (v1.2015.7, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/tzinfo-data-1.2015.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/tzinfo-data-1.2015.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v2.7.2, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/uglifier-2.7.2/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/uglifier-2.7.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/uglifier-2.7.2/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/uglifier-2.7.2/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="unicode-display_width (v0.3.1, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/unicode-display_width-0.3.1/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/unicode-display_width-0.3.1/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/unicode-display_width-0.3.1/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/unicode-display_width-0.3.1/data" />
+      </SOURCES>
+    </library>
+    <library name="warden (v1.2.4, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/warden-1.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/warden-1.2.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="web-console (v2.2.1, ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/web-console-2.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/web-console-2.2.1/lib" />
+      </SOURCES>
+    </library>
+  </component>
+</application>

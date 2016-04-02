@@ -1,0 +1,11 @@
+<application>
+  <component name="DuplocatorSettings">
+    <option name="SELECTED_PROFILES">
+      <set>
+        <option value="JavaScript" />
+        <option value="Ruby" />
+      </set>
+    </option>
+    <option name="LAST_SELECTED_LANGUAGE" value="JavaScript" />
+  </component>
+</application>
