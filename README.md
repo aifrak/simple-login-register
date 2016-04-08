@@ -4,15 +4,15 @@ Simple register and log in forms in PHP with jQuery for the validations, MySQL f
 Database configuration in /app/constants/dbConstants.php
 ```php
     // Host of the database
-    define('DB_HOST', 'localhost');
+    define('DB_HOST', '[DATABSE_HOST]');
     // Port of the database
-    define('DB_PORT', '3306');
+    define('DB_PORT', '[DABATASE_PORT]');
     // User of the database
-    define('DB_USER', 'php_db_admin');
+    define('DB_USER', '[DATABSE_USER]');
     // Password of the database
-    define('DB_PASSWORD', 'php_db_admin');
+    define('DB_PASSWORD', '[DATABSE_PASSWORD]');
     // Name of the database
-    define('DB_NAME', 'phpdb');
+    define('DB_NAME', '[DATABSE_NAME]');
 ```
 
 Main page:
