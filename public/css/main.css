@@ -1,47 +1,36 @@
 body {
-    font-family: Verdana;
-    color: white;
+    font-family: Verdana, serif;
+    color: #ffffff;
 }
 
 h1 {
     text-align: center;
 }
 
-input[type=text], input[type=password],  input[type=email] {
+input[type=text], input[type=password], input[type=email] {
     width: 150px;
 }
-
-/*#container {*/
-    /*width: 80%;*/
-    /*margin: auto;*/
-/*}*/
-
-/*#content {*/
-    /*width: 80%;*/
-    /*background-color: darkcyan;*/
-    /*margin: auto;*/
-    /*padding: 1px;*/
-/*}*/
 
 #container {
     width: 70%;
     margin: auto;
-    background-color: darkcyan;
+    background-color: #99ccff;
     padding: 5px;
 }
 
 #content {
-width: 80%;
-margin: auto;
+    width: 80%;
+    margin: auto;
 }
 
 .error {
-    color: red;
+    color: #ff4d4d;
     font-style: italic;
+    font-weight: bold;
     margin: 5px;
 }
 
-.row>.error {
+.row > .error {
     margin-left: 40%;
 }
 
@@ -67,6 +56,6 @@ div.input {
     text-align: left;
 }
 
-.center{
+.center {
     text-align: center;
 }

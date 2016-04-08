@@ -9,5 +9,6 @@ CREATE TABLE user
   PRIMARY KEY (id)
 );
 
-CREATE USER 'php_db_admin' IDENTIFIED BY 'php_db_admin';
+CREATE USER 'php_db_admin'
+  IDENTIFIED BY 'php_db_admin';
 GRANT ALL ON phpdb.* TO 'php_db_admin';

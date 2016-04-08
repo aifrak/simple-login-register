@@ -1,3 +1,4 @@
 function trimField(id) {
-    $('#' + id).val($('#' + id).val().trim());
+    var field = $('#' + id);
+    field.val(field.val().trim());
 }

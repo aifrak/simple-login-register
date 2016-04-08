@@ -1,55 +1,61 @@
 <?php
 
-/**
- * Class User
- */
-class User
-{
     /**
-     * @var
+     * Class User
      */
-    private $id;
-
-    /**
-     * @var
-     */
-    private $email;
-
-    function __construct($id, $email)
+    class User
     {
-        $this->id = $id;
-        $this->email = $email;
-    }
+        /**
+         * @var
+         */
+        private $id;
 
-    /**
-     * @return mixed
-     */
-    public function getId()
-    {
-        return $this->id;
-    }
+        /**
+         * @var
+         */
+        private $email;
 
-    /**
-     * @param mixed $id
-     */
-    public function setId($id)
-    {
-        $this->id = $id;
-    }
+        /**
+         * User constructor.
+         *
+         * @param $id
+         * @param $email
+         */
+        function __construct($id, $email)
+        {
+            $this->id = $id;
+            $this->email = $email;
+        }
 
-    /**
-     * @return mixed
-     */
-    public function getEmail()
-    {
-        return $this->email;
-    }
+        /**
+         * @return mixed
+         */
+        public function getId()
+        {
+            return $this->id;
+        }
 
-    /**
-     * @param mixed $email
-     */
-    public function setEmail($email)
-    {
-        $this->email = $email;
+        /**
+         * @param mixed $id
+         */
+        public function setId($id)
+        {
+            $this->id = $id;
+        }
+
+        /**
+         * @return mixed
+         */
+        public function getEmail()
+        {
+            return $this->email;
+        }
+
+        /**
+         * @param mixed $email
+         */
+        public function setEmail($email)
+        {
+            $this->email = $email;
+        }
     }
-}

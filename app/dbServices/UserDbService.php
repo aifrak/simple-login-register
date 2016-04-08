@@ -1,95 +1,98 @@
 <?php
 
-require_once 'DbService.php';
-
-/**
- * Class UserDbService
- *
- * Manage users from the database
- */
-class UserDbService
-{
-    /**
-     * Create the user in the database
-     *
-     * @param $id
-     * @param $email
-     * @param $password
-     * @return bool|mysqli_result FALSE on failure.
-     */
-    function create($id, $email, $password)
-    {
-        $result = false;
-
-        $dbService = new DbService();
-
-        // Connect to database
-        $mysqli = $dbService->connect();
-
-        if (isset($mysqli)) {
-            // Insert user
-            $query = "INSERT INTO user(id, email, password) VALUES('" . $id . "', '" . $email . "', '" . $password . "')";
-            $result = mysqli_query($mysqli, $query);
-
-            // Close connection from database
-            $dbService->close($mysqli);
-        }
-
-        return $result;
-    }
+    require_once 'DbService.php';
 
     /**
-     * Find the user in the database
-     *
-     * @param $id , the user id
-     * @return object $dbObj, the result of the query in a object
+     * Class UserDbService
+     * Manage users from the database
      */
-    function find($id)
+    class UserDbService
     {
-        $dbObj = null;
+        /**
+         * Create the user in the database
+         *
+         * @param $id
+         * @param $email
+         * @param $password
+         *
+         * @return bool|mysqli_result FALSE on failure.
+         */
+        function create($id, $email, $password)
+        {
+            $result = false;
 
-        $dbService = new DbService();
+            $dbService = new DbService();
 
-        // Connect to database
-        $mysqli = $dbService->connect();
+            // Connect to database
+            $mysqli = $dbService->connect();
 
-        if (isset($mysqli)) {
-            // Find the user
-            $query = "SELECT id, email, password FROM user WHERE id = '" . $id . "'";
-            $dbObj = mysqli_query($mysqli, $query)->fetch_object();
+            if (isset($mysqli)) {
+                // Insert user
+                $query = "INSERT INTO user(id, email, password) VALUES('" . $id . "', '" . $email . "', '" . $password
+                         . "')";
+                $result = mysqli_query($mysqli, $query);
 
-            // Close connection from database
-            $dbService->close($mysqli);
+                // Close connection from database
+                $dbService->close($mysqli);
+            }
+
+            return $result;
         }
 
-        return $dbObj;
-    }
+        /**
+         * Find the user in the database
+         *
+         * @param $id , the user id
+         *
+         * @return object $dbObj, the result of the query in a object
+         */
+        function find($id)
+        {
+            $dbObj = null;
 
+            $dbService = new DbService();
 
-    /**
-     * Check if the user exists in the database
-     *
-     * @param $id , the user id
-     * @return bool, TRUE if the user exists
-     */
-    function exists($id)
-    {
-        $result = false;
+            // Connect to database
+            $mysqli = $dbService->connect();
 
-        $dbService = new DbService();
+            if (isset($mysqli)) {
+                // Find the user
+                $query = "SELECT id, email, password FROM user WHERE id = '" . $id . "'";
+                $dbObj = mysqli_query($mysqli, $query)->fetch_object();
 
-        // Connect to database
-        $mysqli = $dbService->connect();
+                // Close connection from database
+                $dbService->close($mysqli);
+            }
 
-        if (isset($mysqli)) {
-            // Check if user already exists
-            $query = "SELECT COUNT(id) FROM user WHERE id = '" . $id . "'";
-            $result = 0 < mysqli_query($mysqli, $query)->fetch_row()[0];
-
-            // Close connection from database
-            $dbService->close($mysqli);
+            return $dbObj;
         }
 
-        return $result;
+
+        /**
+         * Check if the user exists in the database
+         *
+         * @param $id , the user id
+         *
+         * @return bool, TRUE if the user exists
+         */
+        function exists($id)
+        {
+            $result = false;
+
+            $dbService = new DbService();
+
+            // Connect to database
+            $mysqli = $dbService->connect();
+
+            if (isset($mysqli)) {
+                // Check if user already exists
+                $query = "SELECT COUNT(id) FROM user WHERE id = '" . $id . "'";
+                $result = 0 < mysqli_query($mysqli, $query)->fetch_row()[0];
+
+                // Close connection from database
+                $dbService->close($mysqli);
+            }
+
+            return $result;
+        }
     }
-}
