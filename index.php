@@ -4,7 +4,7 @@
 
     <div id="container">
         <div id="content">
-            <h1>PHP Web</h1>
+            <h1>Welcome</h1>
 
             <div class="row center">
                 <a href="public/auth/register.php">Register a new user</a>
